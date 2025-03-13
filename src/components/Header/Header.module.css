@@ -58,10 +58,9 @@
   margin-right: -2px;
 }
 .search svg {
-  height: fit-content;
+  height: 35px;
   background: #febd69;
   color: #1a1a1a;
-  height: fit-content;
 }
 .search svg:hover {
   background-color: #d49644;
